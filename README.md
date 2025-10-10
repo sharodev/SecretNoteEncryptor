@@ -11,7 +11,7 @@ All encrypted notes are stored locally in a text file — safe and simple!
 - 🔓 **Decrypt messages** instantly with the same key  
 - 💾 **Saves encrypted notes** to a local `Notes.txt` file  
 - 🧠 **Easy-to-use GUI** built with Tkinter  
-- 🖼️ Optional image banner (replace `topsecret.png` with your own)
+- 🖼️ Optional image banner (replace `Secret.png` with your own)
 
 ---
 
@@ -32,7 +32,7 @@ SecretNoteEncryptor/
 │
 ├── SecretNote.py        # Main app file
 ├── .gitignore           
-├── topsecret.png        # Optional image for UI
+├── Secret.png        # Optional image for UI
 └── README.md            # Project description
 
 
