@@ -1,4 +1,4 @@
-from tkinter import *
+efrom tkinter import *
 from tkinter import messagebox
 import base64
 
@@ -61,7 +61,7 @@ window.geometry("400x600")
 window.config(bg="black")
 
 try:
-    Image = PhotoImage(file="topsecret.png")
+    Image = PhotoImage(file="Secret.png")
     SmallImage = Image.subsample(2, 2)
     ImgLabel = Label(window, image=SmallImage, bg="black", pady=60)
     ImgLabel.pack(pady=25)
