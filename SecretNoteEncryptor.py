@@ -1,4 +1,4 @@
-efrom tkinter import *
+from tkinter import *
 from tkinter import messagebox
 import base64
 
