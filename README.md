@@ -46,5 +46,5 @@ SecretNoteEncryptor/
 
 ## 💡 Developer
 
-**Egemen Doğanay**  
+**Sharode**  
 > A simple GUI app to protect your private notes 🔒  
