@@ -1,21 +1,21 @@
-# 🕵️ Secret Notes Encryptor
+# Secret Notes Encryptor
 
 A simple **Tkinter-based Python app** that lets you **write, encrypt, and decrypt secret notes** using a custom master key.  
 All encrypted notes are stored locally in a text file — safe and simple!
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🔐 **Encrypt your notes** with a custom master key  
-- 🔓 **Decrypt messages** instantly with the same key  
-- 💾 **Saves encrypted notes** to a local `Notes.txt` file  
-- 🧠 **Easy-to-use GUI** built with Tkinter  
-- 🖼️ Optional image banner (replace `Secret.png` with your own)
+-  **Encrypt your notes** with a custom master key  
+-  **Decrypt messages** instantly with the same key  
+-  **Saves encrypted notes** to a local `Notes.txt` file  
+-  **Easy-to-use GUI** built with Tkinter  
+-  Optional image banner (replace `Secret.png` with your own)
 
 ---
 
-## 🧩 How It Works
+##  How It Works
 
 1. Enter your **note title**
 2. Type your **secret message**
@@ -23,11 +23,11 @@ All encrypted notes are stored locally in a text file — safe and simple!
 4. Click **"Save & Encrypt"** to store the encrypted note in `Notes.txt`
 5. To **decrypt**, paste the encrypted message into the text box, enter your master key, and click **"Decrypt"**
 
-> ⚠️ Make sure to remember your master key — without it, your message cannot be decrypted!
+>  Make sure to remember your master key — without it, your message cannot be decrypted!
 
 ---
 
-📁 File Structure
+ File Structure
 SecretNoteEncryptor/
 │
 ├── SecretNote.py        # Main app file
@@ -36,7 +36,7 @@ SecretNoteEncryptor/
 └── README.md            # Project description
 
 
-## 🔧 Built With
+##  Built With
 
 - [Python 3](https://www.python.org/)  
 - [Tkinter](https://docs.python.org/3/library/tkinter.html)  
